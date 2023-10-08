@@ -17,7 +17,7 @@ The Employee Management System is a simple desktop application built using Pytho
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/employee-management-system.git
+    git clone https://github.com/roshni-1/employee-management.git
     ```
 
 2. **Install required packages:**
